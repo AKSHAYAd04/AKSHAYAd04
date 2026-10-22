@@ -8,20 +8,11 @@ Hi there, I'm AKSHAYA ! 👋<br><br>I am a first-year Computer Science and Engin
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AKSHAYAd04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=AKSHAYAd04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AKSHAYAd04&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AKSHAYAd04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AKSHAYAd04&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AKSHAYAd04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AKSHAYAd04&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=AKSHAYAd04&icon=9&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
